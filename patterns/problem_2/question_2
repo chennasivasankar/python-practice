@@ -1,0 +1,18 @@
+Full Pyramid of Numbers
+
+In this problem, you need to print the pattern of the following form containing the numbers from 1 to n.
+
+        1
+      2 3 2
+    3 4 5 4 3
+  4 5 6 7 6 5 4
+5 6 7 8 9 8 7 6 5
+
+
+Input Format
+
+The input will contain a single integer n.
+
+Constraints
+
+1<=n<=1000
