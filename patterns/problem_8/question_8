@@ -1,0 +1,20 @@
+Double the number pattern
+
+In this problem, you need to print the pattern of the following form containing the numbers from 1 to n.
+
+   1
+   2    1
+   4    2    1
+   8    4    2    1
+  16    8    4    2    1
+  32   16    8    4    2    1
+  64   32   16    8    4    2    1
+ 128   64   32   16    8    4    2    1
+
+Input Format
+
+The input will contain a single integer n.
+
+Constraints
+
+1<=n<=1000
