@@ -1,27 +1,53 @@
 [
     {
-     "name": "Level 1",
-     "gof_ids": ["CGE_LEARNING_LEVEL_ONE_METRICS_GOF","CGE_LEARNING_REPORT_FOR_LEVEL_GOF","CGE_LEARNING_LEVEL_MAIN_STATUS_GOF"]
+     "name": "Ready to evaluate",
+     "gof_ids": ["CANDIDATES_SELECTION_READY_TO_EVALUATE_GOF"]
     },{
-     "name": "Level 2",
-     "gof_ids": ["CGE_LEARNING_LEVEL_TWO_METRICS_GOF","CGE_LEARNING_REPORT_FOR_LEVEL_GOF","CGE_LEARNING_LEVEL_MAIN_STATUS_GOF"]
+     "name": "Irrelavant submission",
+     "gof_ids": []
     },{
-     "name": "Level 3",
-     "gof_ids": ["CGE_LEARNING_LEVEL_THREE_METRICS_GOF","CGE_LEARNING_REPORT_FOR_LEVEL_GOF","CGE_LEARNING_LEVEL_MAIN_STATUS_GOF"]
+     "name": "No access",
+     "gof_ids": []
     },{
-     "name": "Level 4 Part 1",
-     "gof_ids": ["CGE_LEARNING_LEVEL_FOUR_METRICS_GOF","CGE_LEARNING_REPORT_FOR_LEVEL_GOF","CGE_LEARNING_LEVEL_MAIN_STATUS_GOF"]
-    },{
-     "name": "Level 4 Part 2",
-     "gof_ids": ["CGE_LEARNING_L4_P2_INTRO_RAPPORT_BUILDING_GOF","CGE_LEARNING_REPORT_FOR_LEVEL_GOF","CGE_LEARNING_LEVEL_MAIN_STATUS_GOF"]
-    },{
-     "name": "Level 5",
-     "gof_ids": ["CGE_LEARNING_L5_METRICS_GOF","CGE_LEARNING_REPORT_FOR_LEVEL_GOF","CGE_LEARNING_LEVEL_MAIN_STATUS_GOF"]
-    },{
-     "name": "Level 6",
-     "gof_ids": ["CGE_LEARNING_L6_METRICS_GOF","CGE_LEARNING_REPORT_FOR_LEVEL_GOF","CGE_LEARNING_LEVEL_MAIN_STATUS_GOF"]
-    },{
-     "name": "Level 7",
-     "gof_ids": ["CGE_LEARNING_L7_METRICS_GOF","CGE_LEARNING_REPORT_FOR_LEVEL_GOF","CGE_LEARNING_LEVEL_MAIN_STATUS_GOF"]
+     "name": "Yet to Clean Submission",
+     "gof_ids": []
     }
 ]
+
+Ready to evaluate
+Irrelavant submission
+No access
+Yet to Clean Submission
+
+[
+    {
+     "name": "Ready to evaluate",
+     "gof_ids": ["CANDIDATES_SELECTION_READY_TO_EVALUATE_GOF"]
+    },{
+     "name": "Irrelavant submission",
+     "gof_ids": []
+    },{
+     "name": "No access",
+     "gof_ids": []
+    },{
+     "name": "Instagram",
+     "gof_ids": []
+    },{
+     "name": "WhatsApp",
+     "gof_ids": []
+    },{
+     "name": "LinkedIn",
+     "gof_ids": []
+    }
+]
+
+Ready to evaluate
+Irrelavant submission
+No access
+
+Career Site
+Advertisement
+Job Groups
+Reels
+TPO
+Other
