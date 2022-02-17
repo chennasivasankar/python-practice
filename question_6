@@ -1,0 +1,18 @@
+Hollow triangle star Pattern
+
+In this problem, you need to print the pattern of the following form containing the numbers from 1 to n.
+
+*
+**
+* *
+*  *
+*   *
+******
+
+Input Format
+
+The input will contain a single integer n.
+
+Constraints
+
+1<=n<=1000

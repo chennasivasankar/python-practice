@@ -1,0 +1,17 @@
+Program to print half pyramid using alphabets
+
+In this problem, you need to print the pattern of the following form containing the numbers from 1 to n.
+
+A
+B B
+C C C
+D D D D
+E E E E E
+
+Input Format
+
+The input will contain a single integer n.
+
+Constraints
+
+1<=n<=1000
