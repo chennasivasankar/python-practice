@@ -1,0 +1,12 @@
+Converts given string to datetime object
+
+Input Format
+dt_string = "12/11/2018 09:15:32"
+
+Output Format
+
+output 1: format should be "dd/mm/yyyy hh/mm/ss
+dt_object1 = 2018-11-12 09:15:32
+
+output 2: format should be "mm/dd/yyyy hh/mm/ss
+dt_object2 = 2018-12-11 09:15:32
