@@ -1,4 +1,5 @@
-In this problem, print the given range multiples in given format
+In this problem, print the given range multiples in given format.
+Use set comprehension to solve this problem
 
 Input Format:
 
