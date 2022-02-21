@@ -1,0 +1,9 @@
+In this problem, only the items with an odd value of less than 40 have been added to the new dictionary.
+Use Set Comprehension
+
+Input Format
+
+dictionary = {'jack': 38, 'michael': 48, 'guido': 57, 'john': 33}
+
+Output Format
+{'john': 33}

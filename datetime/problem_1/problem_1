@@ -1,0 +1,10 @@
+Converts a given datetime object containing current date and time to different string formats.
+
+Output Format
+
+year: 2018
+month: 12
+day: 24
+time: 04:59:31
+date and time: 12/24/2018, 04:59:31
+
