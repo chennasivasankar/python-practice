@@ -1,0 +1,22 @@
+{
+   "from_phone_no":"+919390111761",
+   "to_phone_no_fields":[
+      "CUSTOMER_SUCCESS_JRNY_WHATSAPP_NUMBER"
+   ],
+   "consent_field_id":"CCBP_INTLD_BASIC_DETAILS_WHATSAPP_CONSENT_FIELD",
+   "per_day_messages_limit":10000,
+   "template_name":"confirmation_registrations_open_seat_reserve_scholarship_applied",
+   "storage":"conversation",
+   "namespace":"2b888fb8_dca3_4ce0_bd85_a8000bb937e9",
+   "language":{
+      "policy":"deterministic",
+      "code":"en"
+   },
+   "template_data_fields":[
+      "CUSTOMER_SUCCESS_JRNY_FULL_NAME_FIELD",
+"CUSTOMER_SUCCESS_JRNY_PROGRAM_FIELD",
+"CCBP_INTLD_NEW_LEAD_REG_OPEN_BATCH_START_DATE_FIELD",
+"CCBP_INTLD_NEW_LEAD_REG_OPEN_BATCH_START_DATE_FIELD"
+   ],
+  "api_key":"\nCongratulations {CUSTOMER_SUCCESS_JRNY_FULL_NAME_FIELD}!\n\nWelcome to the CCBP 4.0 family 🎉🎉🎉\n\nToday, you have taken the first step in a path that helped thousands of students transform their careers. We will handhold you at every step of your learning curve and accompany you to your success.\n\nTogether let's build a bright career for you.🎯\n\nTo help you further in your {CUSTOMER_SUCCESS_JRNY_PROGRAM_FIELD} journey, we would like to know more about you.\n\nPlease login into the *Advanced Learning Portal* with your registered mobile number and complete the registration process.\n\n*Advanced Learning Portal*: https://learning.ccbp.in/\n\nFeel free to contact NxtWave Learner Support for any assistance: http://learning.ccbp.in/?support=true\n\nAll the best👍\nHappy Learning😃\n\nTeam NxtWave\n"
+}

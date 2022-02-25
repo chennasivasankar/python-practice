@@ -1,4 +1,4 @@
-def solution7(number: int):
+def pyramid_of_horizontal_number_tables(number: int):
     for i in range(1, number + 1):
         flow_numbers = ""
         for j in range(1, i + 1):

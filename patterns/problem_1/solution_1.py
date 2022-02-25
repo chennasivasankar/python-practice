@@ -1,14 +1,13 @@
 def solution1(n: int):
-<<<<<<< HEAD
-    double_of_n = n + n - 1
-    print((str(n) + " ") * double_of_n)
+    double_of_input = n + n - 1
+    print((str(n) + " ") * double_of_input)
     first_half = str(n)
     second_half = ""
     appending_numbers = []
     for i in range(1, n):
         b = ""
-        the_first_half = " " + str((str(n - (i)) + " ") * (n - (i)))
-        the_second_half = (str(n - (i)) + (" ")) * (n - (i + 1))
+        the_first_half = " " + str((str(n - i) + " ") * (n - i))
+        the_second_half = (str(n - i) + " ") * (n - (i + 1))
         b += first_half + the_first_half + the_second_half + second_half + str(n)
         print(b)
         appending_numbers.append(b)
@@ -23,15 +22,14 @@ def solution1(n: int):
     for i in range(1, len(appending_numbers) + 1):
         print(appending_numbers[-i])
     if n > 1:
-        print((str(n) + " ") * double_of_n)
-=======
+        print((str(n) + " ") * double_of_input)
     l = n
-    double_of_n = n + n - 1
-    print((str(n) + " ") * double_of_n)
+    double_of_input = n + n - 1
+    print((str(n) + " ") * double_of_input)
     c = ""
     for i in range(1, l):
         b = ""
-        b += c + " " + str((str(l - (i)) + " ") * (double_of_n - (2))) + str(l)
+        b += c + " " + str((str(l - i) + " ") * (double_of_input - 2)) + str(l)
         for j in range(1, l):
             c += str(l - i)
             print(c)
@@ -40,4 +38,3 @@ def solution1(n: int):
 
 def sum_two_numbers(a: int, b: int):
     return a + b
->>>>>>> master

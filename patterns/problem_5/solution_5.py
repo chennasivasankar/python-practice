@@ -1,4 +1,4 @@
-def solution5(number: int):
+def floyd_s_triangle(number: int):
     num = 1
     for i in range(0, number):
         count = ""

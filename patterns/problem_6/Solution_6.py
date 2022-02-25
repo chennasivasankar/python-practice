@@ -1,4 +1,4 @@
-def solution_6(n: int):
+def hollow_triangle_star_pattern(n: int):
     if n >= 1:
         print("*")
         for i in range(n - 2):
