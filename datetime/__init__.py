@@ -1,0 +1,3 @@
+def datetime():
+
+    return None
