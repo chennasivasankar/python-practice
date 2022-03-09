@@ -1,0 +1,29 @@
+Given an amount and the denominations of coins available, determine how many ways change can be made for amount.
+There is a limitless supply of each coin type.
+
+Example
+n = 3
+m = 4
+c = [8, 3, 1, 2]
+
+There are  ways to make change for n=3: {1, 1, 1}, {1, 2} and {3}
+
+Function Description
+
+Complete the getWays function in the editor below.
+
+getWays has the following parameter(s):
+1. int n: the amount to make change for
+2. int c[m]: the available coin denominations
+
+Sample input
+
+10 4
+2 5 3 6
+
+Sample Output
+{2, 2, 2, 2, 2}
+{5, 5}
+{2, 2, 6}
+{2, 3, 5}
+{5, 5}
